@@ -1,0 +1,1 @@
+This repository contains my log of the #100DaysOfMLCode and any practice code
