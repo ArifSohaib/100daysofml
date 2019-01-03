@@ -2,6 +2,7 @@
 Learn Reinforcement Learning and implement it on robotic car
 ### SubGoals:
 Learn Robot tracking and localization(also for other project, learn multi-object tracking)
+<br>
 Learn Image Segmentation(for other side project)
 ### Day 1: 1/3/2019
 Started Move37 course 
