@@ -29,4 +29,10 @@ predict:
 mu = mu + mu_prev
 <br>
 sigma = sigma + sigma_prev
+### Day 2: 1/4/2019
+completed first programming assignment of Move37
+<br>
+installed gym in new virtual environment
+<br>
+ran random search and hill climbing algorithm
 
