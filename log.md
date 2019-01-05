@@ -35,4 +35,13 @@ completed first programming assignment of Move37
 installed gym in new virtual environment
 <br>
 ran random search and hill climbing algorithm
-
+### Day 3: 1/5/2019
+completed Bellman Equation and Dynamic Programming
+<br>
+Learned Value Iteration and Policy Iteration
+<br>
+Learned Scostic Update rule:
+V(s,a) = R(S,a) + gamma *((sum over all ``S` ``)(P(``S` ``|S,a)))
+<br>
+Started 2 wheeled robot series in ROS https://www.youtube.com/watch?v=jmCR225ORs0
+<br>
