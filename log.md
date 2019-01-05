@@ -75,3 +75,10 @@ V(s,a) = R(S,a) + gamma *((sum over all ``S` ``)(P(``S` ``|S,a) * V(S`))
 <br>
 Started 2 wheeled robot series in ROS https://www.youtube.com/watch?v=jmCR225ORs0
 <br>
+<ol>
+TODO: 
+<li>try the code for policy iteration</li>
+<li>try negative values (-1 and -0.5) for cost function</li>
+<li>complete 2 wheeled robot series and install ROS in raspberry pi</li>
+</ol>
+<br>
