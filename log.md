@@ -38,10 +38,40 @@ ran random search and hill climbing algorithm
 ### Day 3: 1/5/2019
 completed Bellman Equation and Dynamic Programming
 <br>
-Learned Value Iteration and Policy Iteration
+Learned Value Iteration:
+<ol>
+<li>
+initialize all values to 0 for each state
+</li>
+<li>
+loop over every possible state s
+</li>
+<li>
+from state s loop over every possible action a
+</li>
+<li>
+get list of all (probablity, reward, s`) tuples from state s, action a
+</li>
+<li>
+expected_rewards = sum of all possible rewards multiplied by their probablities
+</li>
+<li>
+expected_value = lookup V(S`) for each possible S`, multiply by P(S`), sum
+</li>
+<li>
+action_value = expected_reward + GAMMA * expected_value
+</li>
+<li>
+set V[S`] to be the best action_value found
+</li>
+<li>
+repeat 2-8 until the largest change in V[S] between iterations is below threshold
+</li>
+</ol>
+
 <br>
-Learned Scostic Update rule:
-V(s,a) = R(S,a) + gamma *((sum over all ``S` ``)(P(``S` ``|S,a)))
+Learned Stochastic Update rule:
+V(s,a) = R(S,a) + gamma *((sum over all ``S` ``)(P(``S` ``|S,a) * V(S`))
 <br>
 Started 2 wheeled robot series in ROS https://www.youtube.com/watch?v=jmCR225ORs0
 <br>
