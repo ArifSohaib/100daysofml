@@ -9,7 +9,11 @@ Cell.prototype.show = function(){
     var y = this.j*w;
     stroke(255);
     noFill();
-    rect(x,y,w,w);
+    //build rectangle using lines
+    line(x  , y  , x+w, y);
+    line(x  , y+w, w+w, y+w);
+    line(x  , y  , x  , y+w);
+    line(x+w, y  , x+w, y+w);
 };
 
 Cell.prototype.toString = function(){
