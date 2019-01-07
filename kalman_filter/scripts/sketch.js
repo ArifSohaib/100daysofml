@@ -67,7 +67,8 @@ var draw = function(){
     sig = new_val.var;
     text("Mean after predict:" + mu, width-150, height/16);
     text("Var after predict:" + sig, width-150, height/8);
-
+    text("measurement: " + measurements[count], width/2, height/8+40);
+    text("motion: " + motions[count], width/2, height/8+80);
     // kalman.update(measurements[count])
     // kalman.predict(motions[count])
     count += 1;
