@@ -81,6 +81,7 @@ TODO:
 <li>try negative values (-1 and -0.5) for cost function</li>
 <li>complete 2 wheeled robot series and install ROS in raspberry pi</li>
 </ol>
+
 ### Day 4: 1/6/2019
 started the grid world code 
 modified code for p5js  
