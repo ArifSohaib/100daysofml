@@ -85,3 +85,18 @@ TODO:
 ### Day 4: 1/6/2019
 started the grid world code 
 modified code for p5js  
+
+### Day 5: 1/7/2019
+forgot to update log
+practiced higher dimensional Kalman filter
+implemented 1D Kalman filter in p5js
+
+### Day 6: 1/8/2019
+replaced HDD with SDD in laptop due to speed issues
+installed Qt creator
+installed OpenCV4 in ubuntu paritition to use with C++11
+practiced C++
+fixed Elgoo Smart Car
+
+### Day 6: 1/9/2019
+TODO
