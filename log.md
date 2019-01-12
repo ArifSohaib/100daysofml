@@ -99,4 +99,8 @@ practiced C++
 fixed Elgoo Smart Car
 
 ### Day 6: 1/9/2019
-TODO
+installed DonkeyCar simulator
+trained car using simulator
+started blender tutorial to make URDF file
+
+### Day 7: 1/10/2019
