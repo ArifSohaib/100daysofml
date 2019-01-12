@@ -112,3 +112,4 @@ trained car using simulator
 started blender tutorial to make URDF file
 
 ### Day 7: 1/10/2019
+continued blender series
