@@ -88,19 +88,27 @@ modified code for p5js
 
 ### Day 5: 1/7/2019
 forgot to update log
+<br>
 practiced higher dimensional Kalman filter
+<br>
 implemented 1D Kalman filter in p5js
 
 ### Day 6: 1/8/2019
 replaced HDD with SDD in laptop due to speed issues
+<br>
 installed Qt creator
+<br>
 installed OpenCV4 in ubuntu paritition to use with C++11
+<br>
 practiced C++
+<br>
 fixed Elgoo Smart Car
 
 ### Day 6: 1/9/2019
 installed DonkeyCar simulator
+<br>
 trained car using simulator
+<br>
 started blender tutorial to make URDF file
 
 ### Day 7: 1/10/2019
